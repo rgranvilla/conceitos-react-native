@@ -54,6 +54,7 @@ export default function App() {
                   </Text>
                 ))}
               </SafeAreaView>
+              
               <SafeAreaView style={styles.likesContainer}>
                 <Text
                   style={styles.likeText}
